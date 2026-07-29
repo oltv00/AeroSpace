@@ -16,8 +16,8 @@ done
 ### BUILD ###
 #############
 
-./build-docs.sh --release
-./build-shell-completion.sh
+# ./build-docs.sh --release
+# ./build-shell-completion.sh
 
 ./generate.sh
 ./script/check-uncommitted-files.sh
